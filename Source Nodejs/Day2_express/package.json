@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luancauthu2907/Natours.git"
+    "url": "git+https://github.com/luancauthu2907/ApiNatours.git"
   },
   "keywords": [
     "Pokemon29072000@"
@@ -16,7 +16,7 @@
   "author": "VoThanhLuan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luancauthu2907/Natours/issues"
+    "url": "https://github.com/luancauthu2907/ApiNatours/issues"
   },
-  "homepage": "https://github.com/luancauthu2907/Natours#readme"
+  "homepage": "https://github.com/luancauthu2907/ApiNatours#readme"
 }

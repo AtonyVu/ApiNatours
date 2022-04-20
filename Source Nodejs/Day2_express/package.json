@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "build resfulapi ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luancauthu2907/Natours.git"
+  },
+  "keywords": [
+    "Pokemon29072000@"
+  ],
+  "author": "VoThanhLuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luancauthu2907/Natours/issues"
+  },
+  "homepage": "https://github.com/luancauthu2907/Natours#readme"
+}

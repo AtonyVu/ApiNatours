@@ -1,0 +1,11 @@
+/node_modules
+/build
+/.env
+/.prettierrc
+Dockerfile
+docker-compose.yml
+.dockerignore
+ecosystem.config.js
+.gitlab-ci.yml
+log
+yarn-error.log
